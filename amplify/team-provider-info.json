@@ -1,0 +1,20 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-enelbookstore-prod-170754-authRole",
+            "UnauthRoleArn": "arn:aws:iam::111371121161:role/amplify-enelbookstore-prod-170754-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::111371121161:role/amplify-enelbookstore-prod-170754-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-enelbookstore-prod-170754-deployment",
+            "UnauthRoleName": "amplify-enelbookstore-prod-170754-unauthRole",
+            "StackName": "amplify-enelbookstore-prod-170754",
+            "StackId": "arn:aws:cloudformation:us-east-2:111371121161:stack/amplify-enelbookstore-prod-170754/ca32fec0-af56-11eb-bfca-02a8778c8f44",
+            "AmplifyAppId": "d22h0tavxuf3xv"
+        },
+        "categories": {
+            "auth": {
+                "enelbookstoreef2f9f2a": {}
+            }
+        }
+    }
+}
